@@ -255,6 +255,7 @@ Header {
         background-image: url(./Fotos/fondo_pack_cel.jpg);
         background-repeat: no-repeat;
         background-size: cover;
+        background-color: blanchedalmond;
     }
 
     .Logopack {
@@ -269,6 +270,7 @@ Header {
         background-repeat: no-repeat;
         background-size: cover;
         padding: 40px;
+        background-color: rgba(0, 128, 128, 0.411);
     }
 
     .Section_index {
