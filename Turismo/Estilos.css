@@ -390,7 +390,7 @@ Header {
     }
 
 
-    @media screen and (max-width: 344px) {
+    @media screen and (max-width: 380px) {
 
     .Titulo {
         font-size: 30px;
