@@ -221,13 +221,13 @@ Header {
         color: aliceblue;
         text-decoration: underline;
         padding-top: 10px;
-        font-size: 15px;
+        font-size: 10px;
     }
 
     .Amigos_expli,
     .Familia_expli {
         color: aliceblue;
-        font-size: 15px;
+        font-size: 10px;
         margin: 10px;
     }
 
@@ -295,7 +295,7 @@ Header {
         border-radius: 20px;
         padding: 20px;
         text-align: center;
-        font-size: 15px;
+        font-size: 10px;
 
     }
 
