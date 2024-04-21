@@ -347,12 +347,12 @@ Header {
     .Recom_index {
         margin: 1px;
         padding: 2px;
-        font-size: 3px;
+        font-size: 30px;
     }
 
     .Pack_amigos,
     .Pack_familia {
-        font-size: 30px;
+        font-size: 20px;
     }
 
     .Amigos_expli,
