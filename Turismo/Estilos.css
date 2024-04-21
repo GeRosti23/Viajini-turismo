@@ -171,7 +171,7 @@ Header {
         display: flex;
         padding-top: 45px;
         font-size: 20px;
-        padding-left: 30px;
+        
 
     }
 
@@ -346,7 +346,7 @@ Header {
     .Pack_index,
     .Recom_index {
         margin: 1px;
-        padding: 2px;
+        padding: 20px;
         font-size: 30px;
     }
 
